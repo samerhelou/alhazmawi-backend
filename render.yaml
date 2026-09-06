@@ -1,0 +1,24 @@
+services:
+  - type: pserv
+    name: alhazmawi-db
+    plan: free
+    ipAllowList: []
+
+  - type: web
+    name: alhazmawi-api
+    plan: free
+    runtime: docker
+    dockerfilePath: ./Dockerfile
+    dockerContext: .
+    healthCheckPath: /api/Categories
+    envVars:
+      - key: ASPNETCORE_ENVIRONMENT
+        value: Production
+      - key: ASPNETCORE_URLS
+        value: http://+:10000
+      - key: JwtSettings__Secret
+        value: AlHazmawiDeliverySuperSecretKey2026!#VerySecureKeyWithMinimum32BytesLength
+      - key: ConnectionStrings__DefaultConnection
+        fromDatabase:
+          name: alhazmawi-db
+          property: connectionString
