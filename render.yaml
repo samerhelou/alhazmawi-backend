@@ -2,12 +2,11 @@ services:
   - type: pserv
     name: alhazmawi-db
     plan: free
-    ipAllowList: []
 
   - type: web
     name: alhazmawi-api
     plan: free
-    runtime: docker
+    env: docker
     dockerfilePath: ./Dockerfile
     dockerContext: .
     healthCheckPath: /api/Categories
