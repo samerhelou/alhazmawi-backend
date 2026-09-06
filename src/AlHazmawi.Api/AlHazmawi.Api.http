@@ -1,0 +1,6 @@
+@AlHazmawi.Api_HostAddress = http://localhost:5113
+
+GET {{AlHazmawi.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

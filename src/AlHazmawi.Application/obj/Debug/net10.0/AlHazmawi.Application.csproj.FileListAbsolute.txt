@@ -1,0 +1,30 @@
+C:\Users\samer\OneDrive\Desktop\الحزماوي للتوصيل - نسخة\backend\src\AlHazmawi.Application\bin\Debug\net10.0\AlHazmawi.Application.deps.json
+C:\Users\samer\OneDrive\Desktop\الحزماوي للتوصيل - نسخة\backend\src\AlHazmawi.Application\bin\Debug\net10.0\AlHazmawi.Application.dll
+C:\Users\samer\OneDrive\Desktop\الحزماوي للتوصيل - نسخة\backend\src\AlHazmawi.Application\bin\Debug\net10.0\AlHazmawi.Application.pdb
+C:\Users\samer\OneDrive\Desktop\الحزماوي للتوصيل - نسخة\backend\src\AlHazmawi.Application\bin\Debug\net10.0\AlHazmawi.Domain.dll
+C:\Users\samer\OneDrive\Desktop\الحزماوي للتوصيل - نسخة\backend\src\AlHazmawi.Application\bin\Debug\net10.0\AlHazmawi.Domain.pdb
+C:\Users\samer\OneDrive\Desktop\الحزماوي للتوصيل - نسخة\backend\src\AlHazmawi.Application\obj\Debug\net10.0\AlHazmawi.Application.csproj.AssemblyReference.cache
+C:\Users\samer\OneDrive\Desktop\الحزماوي للتوصيل - نسخة\backend\src\AlHazmawi.Application\obj\Debug\net10.0\AlHazmawi.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samer\OneDrive\Desktop\الحزماوي للتوصيل - نسخة\backend\src\AlHazmawi.Application\obj\Debug\net10.0\AlHazmawi.Application.AssemblyInfoInputs.cache
+C:\Users\samer\OneDrive\Desktop\الحزماوي للتوصيل - نسخة\backend\src\AlHazmawi.Application\obj\Debug\net10.0\AlHazmawi.Application.AssemblyInfo.cs
+C:\Users\samer\OneDrive\Desktop\الحزماوي للتوصيل - نسخة\backend\src\AlHazmawi.Application\obj\Debug\net10.0\AlHazmawi.Application.csproj.CoreCompileInputs.cache
+C:\Users\samer\OneDrive\Desktop\الحزماوي للتوصيل - نسخة\backend\src\AlHazmawi.Application\obj\Debug\net10.0\AlHazmaw.917D4BB7.Up2Date
+C:\Users\samer\OneDrive\Desktop\الحزماوي للتوصيل - نسخة\backend\src\AlHazmawi.Application\obj\Debug\net10.0\AlHazmawi.Application.dll
+C:\Users\samer\OneDrive\Desktop\الحزماوي للتوصيل - نسخة\backend\src\AlHazmawi.Application\obj\Debug\net10.0\refint\AlHazmawi.Application.dll
+C:\Users\samer\OneDrive\Desktop\الحزماوي للتوصيل - نسخة\backend\src\AlHazmawi.Application\obj\Debug\net10.0\AlHazmawi.Application.pdb
+C:\Users\samer\OneDrive\Desktop\الحزماوي للتوصيل - نسخة\backend\src\AlHazmawi.Application\obj\Debug\net10.0\ref\AlHazmawi.Application.dll
+C:\AlHazmawi\backend\src\AlHazmawi.Application\bin\Debug\net10.0\AlHazmawi.Application.deps.json
+C:\AlHazmawi\backend\src\AlHazmawi.Application\bin\Debug\net10.0\AlHazmawi.Application.dll
+C:\AlHazmawi\backend\src\AlHazmawi.Application\bin\Debug\net10.0\AlHazmawi.Application.pdb
+C:\AlHazmawi\backend\src\AlHazmawi.Application\bin\Debug\net10.0\AlHazmawi.Domain.dll
+C:\AlHazmawi\backend\src\AlHazmawi.Application\bin\Debug\net10.0\AlHazmawi.Domain.pdb
+C:\AlHazmawi\backend\src\AlHazmawi.Application\obj\Debug\net10.0\AlHazmawi.Application.csproj.AssemblyReference.cache
+C:\AlHazmawi\backend\src\AlHazmawi.Application\obj\Debug\net10.0\AlHazmawi.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\AlHazmawi\backend\src\AlHazmawi.Application\obj\Debug\net10.0\AlHazmawi.Application.AssemblyInfoInputs.cache
+C:\AlHazmawi\backend\src\AlHazmawi.Application\obj\Debug\net10.0\AlHazmawi.Application.AssemblyInfo.cs
+C:\AlHazmawi\backend\src\AlHazmawi.Application\obj\Debug\net10.0\AlHazmawi.Application.csproj.CoreCompileInputs.cache
+C:\AlHazmawi\backend\src\AlHazmawi.Application\obj\Debug\net10.0\AlHazmaw.917D4BB7.Up2Date
+C:\AlHazmawi\backend\src\AlHazmawi.Application\obj\Debug\net10.0\AlHazmawi.Application.dll
+C:\AlHazmawi\backend\src\AlHazmawi.Application\obj\Debug\net10.0\refint\AlHazmawi.Application.dll
+C:\AlHazmawi\backend\src\AlHazmawi.Application\obj\Debug\net10.0\AlHazmawi.Application.pdb
+C:\AlHazmawi\backend\src\AlHazmawi.Application\obj\Debug\net10.0\ref\AlHazmawi.Application.dll

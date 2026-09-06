@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/AlHazmawi.Api/AlHazmawi.Api.csproj" />
+    <Project Path="src/AlHazmawi.Application/AlHazmawi.Application.csproj" />
+    <Project Path="src/AlHazmawi.Domain/AlHazmawi.Domain.csproj" />
+    <Project Path="src/AlHazmawi.Infrastructure/AlHazmawi.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/AlHazmawi.UnitTests/AlHazmawi.UnitTests.csproj" />
+  </Folder>
+</Solution>

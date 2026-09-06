@@ -1,0 +1,22 @@
+C:\Users\samer\OneDrive\Desktop\الحزماوي للتوصيل - نسخة\backend\src\AlHazmawi.Domain\bin\Debug\net10.0\AlHazmawi.Domain.deps.json
+C:\Users\samer\OneDrive\Desktop\الحزماوي للتوصيل - نسخة\backend\src\AlHazmawi.Domain\bin\Debug\net10.0\AlHazmawi.Domain.dll
+C:\Users\samer\OneDrive\Desktop\الحزماوي للتوصيل - نسخة\backend\src\AlHazmawi.Domain\bin\Debug\net10.0\AlHazmawi.Domain.pdb
+C:\Users\samer\OneDrive\Desktop\الحزماوي للتوصيل - نسخة\backend\src\AlHazmawi.Domain\obj\Debug\net10.0\AlHazmawi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samer\OneDrive\Desktop\الحزماوي للتوصيل - نسخة\backend\src\AlHazmawi.Domain\obj\Debug\net10.0\AlHazmawi.Domain.AssemblyInfoInputs.cache
+C:\Users\samer\OneDrive\Desktop\الحزماوي للتوصيل - نسخة\backend\src\AlHazmawi.Domain\obj\Debug\net10.0\AlHazmawi.Domain.AssemblyInfo.cs
+C:\Users\samer\OneDrive\Desktop\الحزماوي للتوصيل - نسخة\backend\src\AlHazmawi.Domain\obj\Debug\net10.0\AlHazmawi.Domain.csproj.CoreCompileInputs.cache
+C:\Users\samer\OneDrive\Desktop\الحزماوي للتوصيل - نسخة\backend\src\AlHazmawi.Domain\obj\Debug\net10.0\AlHazmawi.Domain.dll
+C:\Users\samer\OneDrive\Desktop\الحزماوي للتوصيل - نسخة\backend\src\AlHazmawi.Domain\obj\Debug\net10.0\refint\AlHazmawi.Domain.dll
+C:\Users\samer\OneDrive\Desktop\الحزماوي للتوصيل - نسخة\backend\src\AlHazmawi.Domain\obj\Debug\net10.0\AlHazmawi.Domain.pdb
+C:\Users\samer\OneDrive\Desktop\الحزماوي للتوصيل - نسخة\backend\src\AlHazmawi.Domain\obj\Debug\net10.0\ref\AlHazmawi.Domain.dll
+C:\AlHazmawi\backend\src\AlHazmawi.Domain\bin\Debug\net10.0\AlHazmawi.Domain.deps.json
+C:\AlHazmawi\backend\src\AlHazmawi.Domain\bin\Debug\net10.0\AlHazmawi.Domain.dll
+C:\AlHazmawi\backend\src\AlHazmawi.Domain\bin\Debug\net10.0\AlHazmawi.Domain.pdb
+C:\AlHazmawi\backend\src\AlHazmawi.Domain\obj\Debug\net10.0\AlHazmawi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\AlHazmawi\backend\src\AlHazmawi.Domain\obj\Debug\net10.0\AlHazmawi.Domain.AssemblyInfoInputs.cache
+C:\AlHazmawi\backend\src\AlHazmawi.Domain\obj\Debug\net10.0\AlHazmawi.Domain.AssemblyInfo.cs
+C:\AlHazmawi\backend\src\AlHazmawi.Domain\obj\Debug\net10.0\AlHazmawi.Domain.csproj.CoreCompileInputs.cache
+C:\AlHazmawi\backend\src\AlHazmawi.Domain\obj\Debug\net10.0\AlHazmawi.Domain.dll
+C:\AlHazmawi\backend\src\AlHazmawi.Domain\obj\Debug\net10.0\refint\AlHazmawi.Domain.dll
+C:\AlHazmawi\backend\src\AlHazmawi.Domain\obj\Debug\net10.0\AlHazmawi.Domain.pdb
+C:\AlHazmawi\backend\src\AlHazmawi.Domain\obj\Debug\net10.0\ref\AlHazmawi.Domain.dll
