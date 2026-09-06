@@ -1,8 +1,4 @@
 services:
-  - type: pserv
-    name: alhazmawi-db
-    plan: free
-
   - type: web
     name: alhazmawi-api
     plan: free
