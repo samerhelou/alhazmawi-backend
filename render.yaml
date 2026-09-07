@@ -13,4 +13,5 @@ services:
         value: http://+:10000
       - key: JwtSettings__Secret
         value: AlHazmawiDeliverySuperSecretKey2026!#VerySecureKeyWithMinimum32BytesLength
-      # Set ConnectionStrings__DefaultConnection manually in dashboard to your postgres:// URL (dpg-...)
+      - key: ConnectionStrings__DefaultConnection
+        value: postgresql://alhazmawi_db_user:E6Hk25M9dZ1lXGED1ImWUD9uZRWcbGnB@dpg-daevjevqj5pc73b3kcc0-a/alhazmawi_db
