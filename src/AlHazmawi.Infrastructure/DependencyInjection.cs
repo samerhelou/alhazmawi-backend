@@ -19,9 +19,27 @@ public static class DependencyInjection
     {
         // Database - auto-detect SqlServer vs PostgreSQL (for free cloud deploy)
         var connStr = configuration.GetConnectionString("DefaultConnection") ?? "";
+        // Render gives postgres:// URL - convert to Npgsql Host= format
+        if (connStr.StartsWith("postgres://", StringComparison.OrdinalIgnoreCase) || connStr.StartsWith("postgresql://", StringComparison.OrdinalIgnoreCase))
+        {
+            try
+            {
+                var uri = new Uri(connStr);
+                var userInfo = uri.UserInfo.Split(':', 2);
+                var user = Uri.UnescapeDataString(userInfo[0]);
+                var pass = userInfo.Length > 1 ? Uri.UnescapeDataString(userInfo[1]) : "";
+                var host = uri.Host;
+                var port = uri.Port > 0 ? uri.Port : 5432;
+                var db = uri.AbsolutePath.TrimStart('/');
+                // Render requires SSL
+                connStr = $"Host={host};Port={port};Database={db};Username={user};Password={pass};SslMode=Require;Trust Server Certificate=true";
+            }
+            catch { }
+        }
+        var isPostgres = connStr.Contains("Host=", StringComparison.OrdinalIgnoreCase);
         services.AddDbContext<AlHazmawiDbContext>(options =>
         {
-            if (connStr.Contains("Host=", StringComparison.OrdinalIgnoreCase) || connStr.Contains("Username=", StringComparison.OrdinalIgnoreCase))
+            if (isPostgres)
             {
                 options.UseNpgsql(connStr, b => b.MigrationsAssembly(typeof(AlHazmawiDbContext).Assembly.FullName));
             }

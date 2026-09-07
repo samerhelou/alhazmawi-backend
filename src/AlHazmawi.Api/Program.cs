@@ -140,7 +140,7 @@ using (var scope = app.Services.CreateScope())
     {
         var dbContext = services.GetRequiredService<AlHazmawiDbContext>();
         var connStr = app.Configuration.GetConnectionString("DefaultConnection") ?? "";
-        var isPostgres = connStr.Contains("Host=", StringComparison.OrdinalIgnoreCase);
+        var isPostgres = connStr.Contains("Host=", StringComparison.OrdinalIgnoreCase) || connStr.StartsWith("postgres://", StringComparison.OrdinalIgnoreCase) || connStr.StartsWith("postgresql://", StringComparison.OrdinalIgnoreCase);
         if (isPostgres)
         {
             logger.LogInformation("PostgreSQL detected - ensuring database created...");
